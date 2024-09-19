@@ -11,6 +11,7 @@ namespace rrepo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, I'm new here");
+            Console.WriteLine("Second line ");
 
             Console.ReadKey();
         }
