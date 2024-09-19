@@ -12,6 +12,7 @@ namespace rrepo
         {
             Console.WriteLine("Hello, I'm new here");
             Console.WriteLine("Second line ");
+            Console.WriteLine("Fourth line");
 
             Console.ReadKey();
         }
